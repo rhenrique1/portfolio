@@ -1,0 +1,83 @@
+body
+{
+    background: #CCC;
+}
+
+#Header a:hover
+{
+    color: #FFF;
+}
+
+#bg-img
+{
+    background: url('../img/maratona.jpg');
+    background-size: 100%;
+    background-position-y: 90%;
+    background-position-x: 10%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#Sobre
+{
+    margin-top: -200px;
+}
+
+#Sobre .fa
+{
+    color: #FFF;
+}
+
+#Sobre span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Sobre hr
+{
+    border-width: 2px;
+    margin-top: 06px;
+}
+
+#Skills .fa
+{
+    color: #FFF;
+}
+
+#Skills span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Skills hr
+{
+    border-width: 2px;
+    margin-top: 06px;
+}
+
+#Experiencia span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Experiencia hr
+{
+    border-width: 2px;
+    margin-top: 06px;
+}
+
+#Experiencia .card
+{
+    border-top: 03px solid #000000;
+}
+
+#Contato span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Contato hr
+{
+    border-width: 2px;
+    margin-top: 06px;
+}
